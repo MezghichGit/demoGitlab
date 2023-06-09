@@ -1,0 +1,18 @@
+Plan de la formation
+---
+=== Day 1 ===
+
+1)Présentation du DEVOPS, Les pilliers et les pattern et les anti-pattern
+2)Les outils devops
+2.1)Git, les commandes de bases, les branches et les conflits
+2.2)Docker, concepts de base, Image, conteneur, dockerhub..
+2.3)Maven comprendre à faire des builds(compiler, test, package)
+2.4)Cpanel : se familiariser avec cpanel....
+
+---
+=== Day 2 ===
+
+Part 1 : Gitlab : Présentation et notions de base(Git, Runner etc...)
+
+Part 2: Le CI/CD avec gitlab, construction de pipelines faisant appel à docker, git,cpanel, maven...
+
