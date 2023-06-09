@@ -9,6 +9,7 @@ Plan de la formation
 2.3)Maven comprendre à faire des builds(compiler, test, package)
 2.4)Cpanel : se familiariser avec cpanel....
 
+3)Compte rendu n°1
 ---
 === Day 2 ===
 
@@ -16,3 +17,4 @@ Part 1 : Gitlab : Présentation et notions de base(Git, Runner etc...)
 
 Part 2: Le CI/CD avec gitlab, construction de pipelines faisant appel à docker, git,cpanel, maven...
 
+Part 3 : Compte rendu n°3
